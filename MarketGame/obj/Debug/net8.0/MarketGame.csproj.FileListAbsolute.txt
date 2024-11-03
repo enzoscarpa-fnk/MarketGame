@@ -1,0 +1,14 @@
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.AssemblyInfoInputs.cache
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.AssemblyInfo.cs
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.csproj.CoreCompileInputs.cache
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/bin/Debug/net8.0/MarketGame
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/bin/Debug/net8.0/MarketGame.deps.json
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/bin/Debug/net8.0/MarketGame.runtimeconfig.json
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/bin/Debug/net8.0/MarketGame.dll
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/bin/Debug/net8.0/MarketGame.pdb
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.dll
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/refint/MarketGame.dll
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.pdb
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/MarketGame.genruntimeconfig.cache
+/Users/fnk/Documents/IFOSUP 24-25/5IOBJ-1/MarketGame/MarketGame/obj/Debug/net8.0/ref/MarketGame.dll
